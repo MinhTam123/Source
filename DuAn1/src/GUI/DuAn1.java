@@ -14,8 +14,10 @@ public class DuAn1 {
     /**
      * @param args the command line arguments
      */
+    public static frm_main frm_m = new frm_main();
     public static void main(String[] args) {
         // TODO code application logic here
+        frm_m.show();
     }
     
 }
